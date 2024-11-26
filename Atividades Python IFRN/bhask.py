@@ -14,4 +14,4 @@ else:
     print(f"x1 = {x1} x2 = {x2}")
 
     if delta == 0:
-        print(f"O valor de x1 é igual a x2")
+        print("Delta é igual a 0")
