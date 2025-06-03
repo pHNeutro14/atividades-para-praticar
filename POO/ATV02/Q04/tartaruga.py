@@ -19,10 +19,4 @@ class Tartaruga:
     def onde_estou(self):
         print('Eu sou a tartaruga ', self.nome, 'e estou na posição X: ', self.posicao_x, ' Y: ', self.posicao_y)
 
-tartaruga1 = Tartaruga('Moana', 0, 0)
-tartaruga1.onde_estou()
-tartaruga1.andar_pra_frente(37)
-tartaruga1.andar_pra_baixo(20)
-tartaruga1.andar_pra_tras(5)
-tartaruga1.andar_pra_cima(30)
-tartaruga1.onde_estou()
+        
